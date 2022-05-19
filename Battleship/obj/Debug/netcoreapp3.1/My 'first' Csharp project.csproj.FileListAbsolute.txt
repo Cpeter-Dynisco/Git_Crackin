@@ -1,0 +1,14 @@
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\bin\Debug\netcoreapp3.1\My 'first' Csharp project.exe
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\bin\Debug\netcoreapp3.1\My 'first' Csharp project.deps.json
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\bin\Debug\netcoreapp3.1\My 'first' Csharp project.runtimeconfig.json
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\bin\Debug\netcoreapp3.1\My 'first' Csharp project.runtimeconfig.dev.json
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\bin\Debug\netcoreapp3.1\My 'first' Csharp project.dll
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\bin\Debug\netcoreapp3.1\My 'first' Csharp project.pdb
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.csproj.AssemblyReference.cache
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.AssemblyInfoInputs.cache
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.AssemblyInfo.cs
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.csproj.CoreCompileInputs.cache
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.dll
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.pdb
+C:\Users\cpeter\OneDrive - dynisco.com\Documents\Git Crackin\Git_Crackin\My 'first' Csharp project\obj\Debug\netcoreapp3.1\My 'first' Csharp project.genruntimeconfig.cache
