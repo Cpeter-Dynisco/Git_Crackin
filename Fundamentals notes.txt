@@ -1,0 +1,17 @@
+C# v.s Net:
+ - C# is a programming language
+ - .NET is a framework, can run multiple languages
+
+C# general:
+C# is in the same family as C and C++. On both those languages, the compiler then writes that code into assembly language on that machine. 
+C# compiles into intermediate code, which is not machine specific. CLR takes over to produce machine code. 
+Long story short, a program made in C# will run on any machine that has CLR installed. 
+
+CLR (Common Language Run-time)
+ - 
+.NET architecture
+	Your application consists of classes as building blocks
+	Classes are made of data (information) and methods (functions)
+	Namespaces are groups of related classes
+	An Assembly is a group is a group of namespaces
+	
