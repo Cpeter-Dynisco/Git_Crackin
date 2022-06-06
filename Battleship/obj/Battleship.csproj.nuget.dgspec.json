@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\My 'first' Csharp project\\Battleship.csproj": {}
+    "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\Battleship\\Battleship.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\My 'first' Csharp project\\Battleship.csproj": {
+    "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\Battleship\\Battleship.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\My 'first' Csharp project\\Battleship.csproj",
+        "projectUniqueName": "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\Battleship\\Battleship.csproj",
         "projectName": "Battleship",
-        "projectPath": "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\My 'first' Csharp project\\Battleship.csproj",
+        "projectPath": "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\Battleship\\Battleship.csproj",
         "packagesPath": "C:\\Users\\cpeter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\My 'first' Csharp project\\obj\\",
+        "outputPath": "C:\\Users\\cpeter\\OneDrive - dynisco.com\\Documents\\Git Crackin\\Git_Crackin\\Battleship\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cpeter\\AppData\\Roaming\\NuGet\\NuGet.Config",
